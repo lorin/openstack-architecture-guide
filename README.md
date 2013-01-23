@@ -1,0 +1,1 @@
+This is a rough draft of an OpenStack architecture guide. Very much in progress.

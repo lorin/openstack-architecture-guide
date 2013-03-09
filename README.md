@@ -1,1 +1,1 @@
-This is a rough draft of an OpenStack architecture guide. Very much in progress.
+Content from this document has been incorporated into the [OpenStack Operations Guide](http://docs.openstack.org/ops).
